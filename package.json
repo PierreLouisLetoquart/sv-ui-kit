@@ -1,5 +1,5 @@
 {
-	"name": "svelte-ui-kit",
+	"name": "sv-ui-kit",
 	"version": "0.0.1",
 	"description": "A Svelte UI Kit",
 	"license": "MIT",
@@ -59,6 +59,7 @@
 	"types": "./dist/index.d.ts",
 	"type": "module",
 	"dependencies": {
+		"sv-ui-kit": "^0.0.1",
 		"tailwindcss-animate": "^1.0.6"
 	}
 }

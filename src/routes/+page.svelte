@@ -1,5 +1,5 @@
 <script>
-    import Button from "$lib/Button.svelte";
+    import { Button } from "sv-ui-kit";
 </script>
 
 <Button>Click me</Button>

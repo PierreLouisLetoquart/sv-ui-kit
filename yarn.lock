@@ -2027,6 +2027,13 @@ supports-preserve-symlinks-flag@^1.0.0:
   resolved "https://registry.yarnpkg.com/supports-preserve-symlinks-flag/-/supports-preserve-symlinks-flag-1.0.0.tgz#6eda4bd344a3c94aea376d4cc31bc77311039e09"
   integrity sha512-ot0WnXS9fgdkgIcePe6RHNk1WA8+muPa6cSjeR3V8K27q9BB1rTE3R1p7Hv0z1ZyAc8s6Vvv8DIyWf681MAt0w==
 
+sv-ui-kit@^0.0.1:
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/sv-ui-kit/-/sv-ui-kit-0.0.1.tgz#8e081d8eb2ade7d2593e96bfb6bab9932f614e15"
+  integrity sha512-QyROu4CL29uaB6AiZsNHGWVfmUoHXrKpW5sowqDYCwzroJkFeVL2j2NYQJg8CJfpQSWfP1cTQoiD+jx45O4ROA==
+  dependencies:
+    tailwindcss-animate "^1.0.6"
+
 svelte-check@^3.4.3:
   version "3.4.6"
   resolved "https://registry.yarnpkg.com/svelte-check/-/svelte-check-3.4.6.tgz#d43de724ad89d1198c96770e9d23965d3379ad44"
